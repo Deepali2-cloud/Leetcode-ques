@@ -8,6 +8,7 @@ My daily LeetCode journey — solving DSA problems and improving problem-solving
 | ------- |
 | [0001-two-sum](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0054-spiral-matrix) |
+| [0238-product-of-array-except-self](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ My daily LeetCode journey — solving DSA problems and improving problem-solving
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
