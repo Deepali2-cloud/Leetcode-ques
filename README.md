@@ -14,11 +14,13 @@ My daily LeetCode journey — solving DSA problems and improving problem-solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -38,4 +40,8 @@ My daily LeetCode journey — solving DSA problems and improving problem-solving
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepali2-cloud/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
